@@ -1,0 +1,18 @@
+.slow{
+    background-color: rgb(170, 170, 170);
+    height: 250px;
+    width: 900px;
+    border: 10px solid coral;
+    border-radius: 40px;
+    margin: 50px 20px 50px 70px;
+    padding-left: 50px;
+}
+#wifi{
+    color: white;
+    font-size: 25px;
+}
+.host{
+    color: rgb(255, 230, 0);
+    font-size: 18px;
+    
+}
